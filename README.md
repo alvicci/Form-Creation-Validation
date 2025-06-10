@@ -87,3 +87,11 @@ The goal is to demonstrate how to:
 3. Open `index.html` in your browser.
 
 4. Try entering various inputs and observe the feedback.
+
+#### This is a beginner-friendly project that helps you understand:
+
+- DOM manipulation
+
+- Basic validation logic
+
+- User interaction without backend dependency
