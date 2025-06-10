@@ -6,7 +6,7 @@ This project implements basic **client-side form validation** using JavaScript s
 
 ## 🚀 Live Demo
 
-🔗 [View the live project here](https://alvicci.github.io/Form-Creation-Validation/)
+🔗 [View the live project here](https://jackofallnames.github.io/Form-Creation-Validation/)
 
 ---
 
@@ -80,7 +80,7 @@ The goal is to demonstrate how to:
 
 1. Clone the repo:
    ```bash
-   git clone git@github.com:alvicci/Form-Creation-Validation.git
+   git clone git@github.com:jackOfAllNames/Form-Creation-Validation.git
    ```
 2. `cd Form-Creation-Validation`
 
